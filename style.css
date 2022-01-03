@@ -1,25 +1,34 @@
-*{
+* {
     background-color: rgb(185, 255, 127);
 }
-h1,h2,h3,h4 {
-    background-color:rgba(39, 180, 173, 0.377) ;
-     padding-left: 40%;
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    background-color: rgba(39, 180, 173, 0.377);
+    padding-left: 40%;
 }
-p{
-    color:black;
-    
+{
+    color: black;
+
 }
+
 img {
-height: 450px;
-width: 900px;
-margin-left: 20%;
-} 
+    height: 450px;
+    width: 900px;
+    margin-left: 20%;
+}
 
 h5 {
-    background-color:rgba(34, 160, 182, 0.377) ;
+    background-color: rgba(34, 160, 182, 0.377);
     padding-left: 50%;
 }
-button,{
+
+button,
+    {
     background-color: rgb(14, 190, 176);
     padding: 10px;
     border: 10px;
@@ -28,9 +37,11 @@ button,{
     margin-top: 0%;
     margin-left: 0%;
 }
+
 form {
-    margin-left: 40%;  
+    margin-left: 40%;
 }
-textarea{
+
+textarea {
     margin-top: 2%;
 }
